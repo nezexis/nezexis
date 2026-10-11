@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm nezexis 👋
 
-<!--
-**nezexis/nezexis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 13 and I build apps and AI tools. I create projects with the help of AI
+and I'm learning to read, understand and write the code myself.
 
-Here are some ideas to get you started:
+## What I'm building
+- 🎙️ **[Voice-to-Text](https://github.com/nezexis/voice-to-text)**: fast speech-to-text prototype for Russian
+- 💬 **[Aether Messenger](https://github.com/nezexis/aether-messenger)**: experimental messenger with an iOS-style design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm learning
+- Python and TypeScript
+- Math for programming
+- English (aiming for IELTS)
+- Linux
+
+## Goal
+Build real products, get better every month and study computer science abroad.
+
+## Honest note
+My projects are prototypes. Some parts are unfinished, and I say so in every README.
